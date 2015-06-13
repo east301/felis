@@ -1,0 +1,9 @@
+///
+/// Build settings for felis project.
+///
+
+include ':api'
+include ':impl'
+
+include ':desktop'
+include ':server'
